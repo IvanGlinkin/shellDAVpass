@@ -19,7 +19,7 @@ Usage example:
 9. Save the changings (by pressing CTRL+O and Enter. To exit, press CTRL+X)
 10. !!! Send the shellDAVpass.bat to the victim and courage him/her to launch the file !!!
 11. Launch the command prompt
-  bash bash shellDAVpass.sh
+  bash shellDAVpass.sh
 12. Enter your commands
 ```
 An original article:
