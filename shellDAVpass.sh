@@ -54,7 +54,7 @@ do
 
 	endTime=$(( $(date +%s) + sleeptime ));
 	
-	echo -e "$BLUE""[ * * ] There response is:$CLEAR_FONT";
+	echo -e "$BLUE""[ * * ] The response is:$CLEAR_FONT";
 	
 	while [ -z "$output" ] 
 	do
