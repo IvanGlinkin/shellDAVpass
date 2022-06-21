@@ -23,7 +23,7 @@ Usage example:
 ```
 An original article:
 --------------------
-[[https://www.ivanglinkin.com/autosuid/](https://www.ivanglinkin.com/sheeldavpass-non-interactive-reverse-shell-to-bypass-the-defender-and-antivirus-detections/)]
+[https://www.ivanglinkin.com/sheeldavpass-non-interactive-reverse-shell-to-bypass-the-defender-and-antivirus-detections/](https://www.ivanglinkin.com/sheeldavpass-non-interactive-reverse-shell-to-bypass-the-defender-and-antivirus-detections/)
 
 Video example:
 --------------
