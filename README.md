@@ -28,7 +28,7 @@ An original article:
 
 Video example:
 --------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2021/12/AutoSUID_Video.gif)
+![](https://www.ivanglinkin.com/wp-content/uploads/2022/06/shellDAVpass-demo.gif)
 
 Screenshots:
 ------------
