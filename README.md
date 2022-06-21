@@ -28,7 +28,7 @@ An original article:
 
 Video example:
 --------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2022/06/shellDAVpass-demo.mov)
+[![Watch the video])](https://www.ivanglinkin.com/wp-content/uploads/2022/06/shellDAVpass-demo.mov)
 
 Screenshots:
 ------------
