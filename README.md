@@ -32,10 +32,10 @@ Video example:
 
 Screenshots:
 ------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2022/06/shellDAVshell-001.png)
+![](https://github.com/IvanGlinkin/media_support/blob/main/shellDAVshell_image-1.png?raw=true)
 
-![](https://www.ivanglinkin.com/wp-content/uploads/2022/06/shellDAVshell-002.png)
+![](https://github.com/IvanGlinkin/media_support/blob/main/shellDAVshell_image-2.png?raw=true)
 
-![](https://www.ivanglinkin.com/wp-content/uploads/2022/06/shellDAVshell-003.png)
+![](https://github.com/IvanGlinkin/media_support/blob/main/shellDAVshell_image-3.png?raw=true)
 
-![](https://www.ivanglinkin.com/wp-content/uploads/2022/06/shellDAVshell.png)
+![](https://github.com/IvanGlinkin/media_support/blob/main/shellDAVshell_image-4.png?raw=true)
