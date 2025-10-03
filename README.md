@@ -4,7 +4,7 @@ shellDAVpass application is the Open-Source project, the main idea of which is t
 Usage example:
 --------------
 ```
-1. Start your HTTP server. For APACHE inder Debian (Ubuntu/Kali):
+1. Start your HTTP server. For APACHE under Debian (Ubuntu/Kali):
   systemctl start apache2.service 
 2. The default port is 80. You are free to change it by editing /etc/apache2/ports.conf
   Listen 80
