@@ -34,7 +34,7 @@ echo -e "$ORANGE║$CLEAR_FONT$GREEN_BOLD\t\t\t\t shellDAVpass\t\t\t\t    $CLEAR
 echo -e "$ORANGE║\t\t\t\t\t\t\t\t\t    ║\e[00m";
 echo -e "$ORANGE╚═══════════════════════════════════════════════════════════════════════════╝$CLEAR_FONT";
 echo -e "";
-echo -e "$ORANGE[ ! ] https://www.linkedin.com/in/IvanGlinkin/ | @glinkinivan$CLEAR_FONT";
+echo -e "$ORANGE[ ! ] https://www.linkedin.com/in/IvanGlinkin/ | https://t.me/glinkinivan$CLEAR_FONT";
 echo -e "";
 
 while [ "$command" != "exit" ]
